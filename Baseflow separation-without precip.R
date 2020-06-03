@@ -8,7 +8,7 @@ library(EcoHydRology)
 library(dplyr)
 
 #Reading the dataset#
-BASEFLOW= read.csv("D:/Arghavan/Ph.D-20190508T193213Z-001/R/SNF/BASEFLOW/WASI-ALL.csv") 
+BASEFLOW= read.csv("D:/Arghavan/Ph.D-20190508T193213Z-001/R/Muskoka/Baseflow/Threthewey.csv") 
 View(BASEFLOW)
 
 #Preparing the format of "Date"#
