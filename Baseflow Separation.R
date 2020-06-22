@@ -24,7 +24,7 @@ library(dplyr)
 library(ggplot2)
 
 #Reading the dataset#
-BASEFLOW= read.csv("D:/Arghavan/Ph.D-20190508T193213Z-001/R/Muskoka/Baseflow/Trethewey-2013-2016.csv") 
+BASEFLOW= read.csv("D:/Arghavan/Ph.D-20190508T193213Z-001/R/SNF/BASEFLOW/SO.csv") 
 View(BASEFLOW)
 
 #Preparing the format of "Date"#
